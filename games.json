@@ -1,21 +1,678 @@
 [
-{
-  "name": "Call of Duty: Modern Warfare + Warzone",
-  "imagePath": "img/modernwarfare.jpg",
-  "totalHours": 1094,
-  "hasPlatinum": 1,
-  "storyInfo": "✅ Story Completed\n⚔️ Realism 5/5",
-  "gameInfo": "Played Warzone with Omri\n📅 November 2020:\nCampaign - ⏱️ 20 Hours\nMultiplayer - ⏱️ 391 Hours\nWarzone - ⏱️ 683 Hours",
-  "timeInfo": null
-}
-,
-{
-  "name": "Call of Duty: Modern Warfare 2 + Warzone 2",
-  "imagePath": "img/mw2.png",
-  "totalHours": 400,
-  "hasPlatinum": 0,
-  "storyInfo": "✅ Story Completed\n⚔️ Realism 5/5",
-  "gameInfo": "Completed Most Trophies\n📅 November 2022\n\nCompleted Most Trophies\n📅 October 2023:\nCampaign - ⏱️ 17 Hours\nCo-op - ⏱️ 6 Hours\nMultiplayer - ⏱️ 171 Hours\nMultiplayer Ranked - ⏱️ 64 Hours\nWarzone - ⏱️ 85 Hours\nWarzone Ranked - ⏱️ 45 Hours\nDMZ - ⏱️ 12 Hours",
-  "timeInfo": null
-}
+  {
+    "name": "Call of Duty: Modern Warfare + Warzone",
+    "imagePath": "img/modernwarfare.jpg",
+    "totalHours": 1094,
+    "hasPlatinum": 1,
+    "storyInfo": "✅ Story Completed\n⚔️ Realism 5/5",
+    "gameInfo": "Played Warzone with Omri\n📅 November 2020:\nCampaign - ⏱️ 20 Hours\nMultiplayer - ⏱️ 391 Hours\nWarzone - ⏱️ 683 Hours",
+    "timeInfo": null
+  },
+  {
+    "name": "Call of Duty: Modern Warfare 2 + Warzone 2",
+    "imagePath": "img/mw2.png",
+    "totalHours": 400,
+    "hasPlatinum": 0,
+    "storyInfo": "✅ Story Completed\n⚔️ Realism 5/5",
+    "gameInfo": "Completed Most Trophies\n📅 November 2022\n\nCompleted Most Trophies\n📅 October 2023:\nCampaign - ⏱️ 17 Hours\nCo-op - ⏱️ 6 Hours\nMultiplayer - ⏱️ 171 Hours\nMultiplayer Ranked - ⏱️ 64 Hours\nWarzone - ⏱️ 85 Hours\nWarzone Ranked - ⏱️ 45 Hours\nDMZ - ⏱️ 12 Hours",
+    "timeInfo": null
+  },
+  {
+    "name": "Aion",
+    "imagePath": "img/aion.jpg",
+    "totalHours": 332,
+    "hasPlatinum": 0,
+    "storyInfo": "✅ Story Completed",
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "Red Dead Redemption 2",
+    "imagePath": "img/rdr2.jpg",
+    "totalHours": 287,
+    "hasPlatinum": 1,
+    "storyInfo": "✅ Story Completed",
+    "gameInfo": "Old PS4 Gameplay\n📅 2018:\nStory - ⏱️ 30 Hours\n\nFull Platinum\n📅 2020-2021:\nStory - ⏱️ 165 Hours\nOnline - ⏱️ 92 Hours",
+    "timeInfo": null
+  },
+  {
+    "name": "Playerunknown's Battlegrounds",
+    "imagePath": "img/pubg.jpg",
+    "totalHours": 181,
+    "hasPlatinum": 0,
+    "storyInfo": null,
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "Star Wars: The Old Republic",
+    "imagePath": "img/star.jpg",
+    "totalHours": 157,
+    "hasPlatinum": 0,
+    "storyInfo": "✅ Story Completed",
+    "gameInfo": "Old Playthroughts\n📅 2021 - ⏱️ 152 Hours\n\nNew Lucidium Playthrough\n📅 May 2025 - ⏱️ 5 Hours",
+    "timeInfo": null
+  },
+  {
+    "name": "Oxygen Not Included",
+    "imagePath": "img/oxygen.jpg",
+    "totalHours": 146,
+    "hasPlatinum": 0,
+    "storyInfo": null,
+    "gameInfo": "Played after buying the game\n📅 May 2021\n\nPlayed completing various trophies\n📅 September 2024",
+    "timeInfo": null
+  },
+  {
+    "name": "Counter Strike",
+    "imagePath": "img/cs2.png",
+    "totalHours": 120,
+    "hasPlatinum": 0,
+    "storyInfo": null,
+    "gameInfo": "Old Gameplay\n📅 N/A - ⏱️ 59 Hours\n\nNew Gameplay\n📅 2025 - ⏱️ 61 Hours",
+    "timeInfo": null
+  },
+  {
+    "name": "Battlefield 4",
+    "imagePath": "img/bf4.jpg",
+    "totalHours": 115,
+    "hasPlatinum": 0,
+    "storyInfo": "✅ Story Completed",
+    "gameInfo": "Old Gameplay\n📅 Since 2013:\nPS3/PC - ⏱️ 100 Hours\n\nNew PC Gameplay\n📅 February 2025:\nStory - ⏱️ 6 Hours\nMultiplayer - ⏱️ 9 Hours",
+    "timeInfo": null
+  },
+  {
+    "name": "Grounded",
+    "imagePath": "img/grounded.jpg",
+    "totalHours": 99,
+    "hasPlatinum": 0,
+    "storyInfo": "✅ Story Completed\n⚔️ Medium 2/3\"",
+    "gameInfo": "First Gameplay\n📅 November 2021 — ⏱️ 15 hours\n\nFull Playthrough (Medium)\n📅 2022–2023 — ⏱️ 84 hours\n",
+    "timeInfo": null
+  },
+      {
+    "name": "Arc Raiders",
+    "imagePath": "img/arc.png",
+    "totalHours": 95,
+    "hasPlatinum": 0,
+    "storyInfo": null,
+    "gameInfo": "Solo Gameplay + with Omri\n📅 November 2025:\nMultiplayer - ⏱️ 95 Hours\n",
+    "timeInfo": null
+  },
+  {
+    "name": "Stardew Valley",
+    "imagePath": "img/stardew_valley.jpg",
+    "totalHours": 91,
+    "hasPlatinum": 0,
+    "storyInfo": "✅ Story Completed",
+    "gameInfo": "First Gameplay\n📅 2021-2022:\nStory - ⏱️ 91 Hours",
+    "timeInfo": null
+  },
+  {
+    "name": "Elden Ring",
+    "imagePath": "img/elden.jpg",
+    "totalHours": 86,
+    "hasPlatinum": 1,
+    "storyInfo": "✅ Story Completed",
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "Dying Light",
+    "imagePath": "img/dying_light.jpg",
+    "totalHours": 85,
+    "hasPlatinum": 1,
+    "storyInfo": "✅ Story Completed\n+ The Following DLC",
+    "gameInfo": "Old PS4 Platinum\n📅 N/A - ⏱️ 47 Hours\n\nNew PC Gameplay\n📅 2018/2021 - ⏱️ 38 Hours",
+    "timeInfo": null
+  },
+  {
+    "name": "Cyberpunk 2077",
+    "imagePath": "img/cyber.png",
+    "totalHours": 80,
+    "hasPlatinum": 0,
+    "storyInfo": "✅ Story Completed\n⚔️ Hard 3/4",
+    "gameInfo": "Previous Gameplay\n📅 N/A - ⏱️ 28 Hours\n\nFull Playthrough (Hard)\n📅 April 2024 - ⏱️ 24 Hours\n\nNew Playthrough (Very Hard / Only Hacking and Katana)\n📅 July 2024  - ⏱️ 28 Hours",
+    "timeInfo": null
+  },
+  {
+    "name": "Battlefield 6",
+    "imagePath": "img/bf6.png",
+    "totalHours": 75,
+    "hasPlatinum": 0,
+    "storyInfo": null,
+    "gameInfo": "Open Beta\n📅 August 2025:\nMultiplayer - ⏱️ 10 Hours\n\nFull Game (Gameplay with Omri)\n📅 October 2025:\nStory - ⏱️ 0 Hours\nMultiplayer - ⏱️ 65 Hours\n",
+    "timeInfo": null
+  },
+  {
+    "name": "My Time at Portia",
+    "imagePath": "img/portia.jpg",
+    "totalHours": 65,
+    "hasPlatinum": 0,
+    "storyInfo": null,
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "The Division 2",
+    "imagePath": "img/division2.png",
+    "totalHours": 65,
+    "hasPlatinum": 0,
+    "storyInfo": null,
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "Clair Obscur: Expedition 33",
+    "imagePath": "img/clair.png",
+    "totalHours": 61,
+    "hasPlatinum": 1,
+    "storyInfo": "✅ Story Completed\n⚔️ Expeditioner 2/3",
+    "gameInfo": "First Playthrough (All achievements) - Expeditioner Difficulty\n📅 May-July 2025 - ⏱️ 61 Hours",
+    "timeInfo": null
+  },
+  {
+    "name": "Commandos 2",
+    "imagePath": "img/commandos2.jpg",
+    "totalHours": 60,
+    "hasPlatinum": 0,
+    "storyInfo": "✅ Story Completed\n⚔️Very Hard 3/3",
+    "gameInfo": "2 Old Playthroughts\n📅 N/A - ⏱️ 36 Hours\n\nNew Playthrought\n📅 N/A - ⏱️ 24 Hours\n\n\n",
+    "timeInfo": null
+  },
+  {
+    "name": "Red Alert 2 + Yuri's Revenge",
+    "imagePath": "img/ra2.jpg",
+    "totalHours": 58,
+    "hasPlatinum": 1,
+    "storyInfo": "✅ Story Completed\n⚔️ Hard 3/3",
+    "gameInfo": "Old Playthroughts\n📅 All Time:\nRed Alert 2 ⏱️ 40 Hours\nYuri's Revenge DLC ⏱️ 13 Hours\nSkirmish ⏱️ 5 Hours\n\n",
+    "timeInfo": null
+  },
+  {
+    "name": "Battlefield 5",
+    "imagePath": "img/bf5.jpg",
+    "totalHours": 56,
+    "hasPlatinum": 1,
+    "storyInfo": "✅ Story Completed\n⚔️ Hardcore 4/4",
+    "gameInfo": "Completed Platinum on PS4\n📅 2022:\nStory - ⏱️ 10 Hours\nMultiplayer - ⏱️ 36 Hours\n\nPlayed on PC\n📅 March 2025:\nMultiplayer - ⏱️ 14 Hours\n\nPlayed on PC (Preparing for BF6)\n📅 August 2025:\nMultiplayer - ⏱️ 0 Hours",
+    "timeInfo": null
+  },
+  {
+    "name": "PC Building Simulator",
+    "imagePath": "img/pc.png",
+    "totalHours": 48,
+    "hasPlatinum": 0,
+    "storyInfo": null,
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "Horizon Zero Dawn",
+    "imagePath": "img/hzd.jpg",
+    "totalHours": 47,
+    "hasPlatinum": 0,
+    "storyInfo": "✅ Story Completed",
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "Helldivers 2",
+    "imagePath": "img/helldivers2.png",
+    "totalHours": 46,
+    "hasPlatinum": 0,
+    "storyInfo": null,
+    "gameInfo": "First Gameplay with Omri\n📅 December 2024 - ⏱️ 46 Hours",
+    "timeInfo": null
+  },
+  {
+    "name": "Grand Theft Auto 5",
+    "imagePath": "img/gta5.png",
+    "totalHours": 46,
+    "hasPlatinum": 0,
+    "storyInfo": "✅ Story Completed",
+    "gameInfo": "PC - First Person Only\n📅  N/A:\nStory - ⏱️ 29\nOnline - ⏱️ 17",
+    "timeInfo": null
+  },
+  {
+    "name": "Star Wars: Battlefront 2",
+    "imagePath": "img/battlefront2.jpg",
+    "totalHours": 40,
+    "hasPlatinum": 0,
+    "storyInfo": "✅ Story Completed",
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "Days Gone",
+    "imagePath": "img/days_gone.jpg",
+    "totalHours": 40,
+    "hasPlatinum": 1,
+    "storyInfo": "✅ Story Completed",
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "Spider-Man",
+    "imagePath": "img/spiderman.jpg",
+    "totalHours": 40,
+    "hasPlatinum": 1,
+    "storyInfo": "✅ Story Completed",
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "Watch Dogs 2",
+    "imagePath": "img/watchdogs2.png",
+    "totalHours": 40,
+    "hasPlatinum": 1,
+    "storyInfo": "✅ Story Completed",
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "The Sims 4",
+    "imagePath": "img/sims.png",
+    "totalHours": 39,
+    "hasPlatinum": 1,
+    "storyInfo": null,
+    "gameInfo": "PS4 Platinum\n📅 N/A - ⏱️ 37 Hours\n\nPC Just for Fun\n📅  N/A - ⏱️ 2",
+    "timeInfo": null
+  },
+  {
+    "name": "No Man's Sky",
+    "imagePath": "img/sky.jpg",
+    "totalHours": 38,
+    "hasPlatinum": 1,
+    "storyInfo": "✅ Story Completed\n⚔️Permadeath 4/4",
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "Dying Light 2",
+    "imagePath": "img/dyinglight2.jpg",
+    "totalHours": 38,
+    "hasPlatinum": 0,
+    "storyInfo": null,
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "Subnautica",
+    "imagePath": "img/sub.jpg",
+    "totalHours": 34,
+    "hasPlatinum": 1,
+    "storyInfo": "✅ Story Completed\n⚔️Survival 2/3",
+    "gameInfo": "First Gameplay\n📅 N/A - ⏱️ 12 Hours\n\nSecond Gameplay (All Achievements)\n📅  N/A - ⏱️ 21 Hours",
+    "timeInfo": null
+  },
+  {
+    "name": "Shadow Tactics: Blades of the Shogun",
+    "imagePath": "img/tactics.png",
+    "totalHours": 33,
+    "hasPlatinum": 0,
+    "storyInfo": "Story Not Completed\n⚔️ Hardcore 3/3",
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "Dragon Ball: Sparking Zero",
+    "imagePath": "img/db_zero.png",
+    "totalHours": 31,
+    "hasPlatinum": 1,
+    "storyInfo": "✅ Story Completed",
+    "gameInfo": "First Playthrough (All achievements)\n📅 October 2024 - ⏱️ 31 Hours",
+    "timeInfo": null
+  },
+  {
+    "name": "Pokemon: SoulSilver",
+    "imagePath": "img/soul.png",
+    "totalHours": 30,
+    "hasPlatinum": 0,
+    "storyInfo": "✅ Story Completed",
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "Star Wars: Jedi Fallen Order",
+    "imagePath": "img/jedi.jpg",
+    "totalHours": 29,
+    "hasPlatinum": 1,
+    "storyInfo": "✅ Story Completed",
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "Farming Simulator 25",
+    "imagePath": "img/farming25.png",
+    "totalHours": 26,
+    "hasPlatinum": 0,
+    "storyInfo": null,
+    "gameInfo": "First Gameplay (Custom Hardest Difficulty)\n📅 December 2024 - ⏱️ 26 Hours",
+    "timeInfo": null
+  },
+  {
+    "name": "Sea of Thieves",
+    "imagePath": "img/sea.png",
+    "totalHours": 25,
+    "hasPlatinum": 0,
+    "storyInfo": null,
+    "gameInfo": "First Gameplay\n📅 April 2025 - ⏱️ 19 Hours",
+    "timeInfo": null
+  },
+  {
+    "name": "Pokemon: Let's Go Eevee",
+    "imagePath": "img/eevee.jpg",
+    "totalHours": 24,
+    "hasPlatinum": 0,
+    "storyInfo": "✅ Story Completed",
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "Food Truck Simulator",
+    "imagePath": "img/foodtruck.jpg",
+    "totalHours": 23,
+    "hasPlatinum": 1,
+    "storyInfo": "✅ Story Completed",
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "GTA: San Andreas",
+    "imagePath": "img/san_andreas.png",
+    "totalHours": 22,
+    "hasPlatinum": 0,
+    "storyInfo": "✅ Story Completed",
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "Pokemon TCG Pocket",
+    "imagePath": "img/ptcgo.jpg",
+    "totalHours": 20,
+    "hasPlatinum": 0,
+    "storyInfo": null,
+    "gameInfo": "First Gameplay\n📅 December 2024 - ⏱️ 20 Hours",
+    "timeInfo": null
+  },
+  {
+    "name": "Call of Duty: Cold War",
+    "imagePath": "img/coldwar.jpg",
+    "totalHours": 18,
+    "hasPlatinum": 0,
+    "storyInfo": "✅ Story Completed",
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "Apex Legends",
+    "imagePath": "img/apex.png",
+    "totalHours": 16,
+    "hasPlatinum": 0,
+    "storyInfo": null,
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "Car Mechanic Simulator 2021",
+    "imagePath": "img/mechanic.jpg",
+    "totalHours": 15,
+    "hasPlatinum": 0,
+    "storyInfo": null,
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "Assassin's Creed 2",
+    "imagePath": "img/ac2.jpg",
+    "totalHours": 14,
+    "hasPlatinum": 0,
+    "storyInfo": "✅ Story Completed",
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "Kingdom Come: Deliverance II",
+    "imagePath": "img/kcd2.png",
+    "totalHours": 14,
+    "hasPlatinum": 0,
+    "storyInfo": null,
+    "gameInfo": "First Playthrough (Most Achievements) Normal Difficulty\n📅 July 2025 - ⏱️ 14 Hours",
+    "timeInfo": null
+  },
+  {
+    "name": "Pokemon TCG",
+    "imagePath": "img/poketcg.png",
+    "totalHours": 12,
+    "hasPlatinum": 0,
+    "storyInfo": null,
+    "gameInfo": "Old Gameplay\n📅 N/A - ⏱️ 12 Hours\n\nNew Gameplay - TCG Live\n📅  September 2025 - ⏱️ 0",
+    "timeInfo": null
+  },
+  {
+    "name": "Assassin's Creed",
+    "imagePath": "img/assassins1.jpg",
+    "totalHours": 12,
+    "hasPlatinum": 0,
+    "storyInfo": "✅ Story Completed",
+    "gameInfo": null,
+    "timeInfo": null
+  },
+
+  {
+    "name": "Black & White",
+    "imagePath": "img/blackwhite.png",
+    "totalHours": 10,
+    "hasPlatinum": 0,
+    "storyInfo": null,
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "House Flipper",
+    "imagePath": "img/flipper.png",
+    "totalHours": 10,
+    "hasPlatinum": 0,
+    "storyInfo": null,
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "GTA 2",
+    "imagePath": "img/gta2.png",
+    "totalHours": 10,
+    "hasPlatinum": 0,
+    "storyInfo": "✅ Story Completed",
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "War Thunder",
+    "imagePath": "img/thunder.png",
+    "totalHours": 10,
+    "hasPlatinum": 0,
+    "storyInfo": null,
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "Call of Duty: Modern Warfare 3 + Warzone 3",
+    "imagePath": "img/mw3.png",
+    "totalHours": 9,
+    "hasPlatinum": 0,
+    "storyInfo": null,
+    "gameInfo": "Gameplay\n📅 2024:\nWarzone/Plunder/Resurgence ⏱️ 9 Hours",
+    "timeInfo": null
+  },
+  {
+    "name": "Assassin's Creed: Bortherhood",
+    "imagePath": "img/brotherhood.jpg",
+    "totalHours": 9,
+    "hasPlatinum": 0,
+    "storyInfo": "✅ Story Completed",
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "Assassin's Creed: Revelations",
+    "imagePath": "img/ac_revelations.png",
+    "totalHours": 9,
+    "hasPlatinum": 0,
+    "storyInfo": "✅ Story Completed",
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "Rust",
+    "imagePath": "img/rust.png",
+    "totalHours": 9,
+    "hasPlatinum": 0,
+    "storyInfo": null,
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "GTA 3",
+    "imagePath": "img/gta3.jpg",
+    "totalHours": 8,
+    "hasPlatinum": 0,
+    "storyInfo": "✅ Story Completed",
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "Crash Team Racing",
+    "imagePath": "img/ctr.png",
+    "totalHours": 7,
+    "hasPlatinum": 0,
+    "storyInfo": "✅ Story Completed\n100% Completion",
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "Battlefield 3",
+    "imagePath": "img/bf3.jpg",
+    "totalHours": 6,
+    "hasPlatinum": 0,
+    "storyInfo": "✅ Story Completed\n⚔️ Hard 3/3",
+    "gameInfo": "Old PS3 Gameplay\n📅 2010 - ⏱️ Unknown\n\nNew Story Playthrough\n📅 February 2025 - ⏱️ 6 Hours",
+    "timeInfo": null
+  },
+  {
+    "name": "Conan Exiles",
+    "imagePath": "img/conan.png",
+    "totalHours": 6,
+    "hasPlatinum": 0,
+    "storyInfo": null,
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "Battlefield: Bad Company 2",
+    "imagePath": "img/badcomp.jpg",
+    "totalHours": 5,
+    "hasPlatinum": 0,
+    "storyInfo": "✅ Story Completed\n⚔️ Hard 3/3",
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "Microsoft Flight Simulator",
+    "imagePath": "img/flight.png",
+    "totalHours": 5,
+    "hasPlatinum": 0,
+    "storyInfo": null,
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "Dave the Diver",
+    "imagePath": "img/dave.png",
+    "totalHours": 4,
+    "hasPlatinum": 0,
+    "storyInfo": null,
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "Battlefield: Hardline",
+    "imagePath": "img/bfhard.jpg",
+    "totalHours": 3,
+    "hasPlatinum": 0,
+    "storyInfo": null,
+    "gameInfo": "Played the Story\n📅 March 2025:\nStory - ⏱️ 3 Hours",
+    "timeInfo": null
+  },
+  {
+    "name": "GTA 4",
+    "imagePath": "img/gta4.png",
+    "totalHours": 2,
+    "hasPlatinum": 0,
+    "storyInfo": null,
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "Watch Dogs",
+    "imagePath": "img/watchdogs1.png",
+    "totalHours": 2,
+    "hasPlatinum": 0,
+    "storyInfo": null,
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "Star Wars: Squadrons",
+    "imagePath": "img/squadrons.png",
+    "totalHours": 1,
+    "hasPlatinum": 0,
+    "storyInfo": null,
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "Final Fantasy 14 Online",
+    "imagePath": "img/ff14.jpg",
+    "totalHours": 0,
+    "hasPlatinum": 0,
+    "storyInfo": null,
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "Need for Speed",
+    "imagePath": "img/nfs.jpg",
+    "totalHours": 0,
+    "hasPlatinum": 0,
+    "storyInfo": null,
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "Sniper Elite 4",
+    "imagePath": "img/sniper4.jpg",
+    "totalHours": 0,
+    "hasPlatinum": 0,
+    "storyInfo": null,
+    "gameInfo": null,
+    "timeInfo": null
+  },
+  {
+    "name": "Satisfactory",
+    "imagePath": "img/satisfactory.png",
+    "totalHours": 0,
+    "hasPlatinum": 0,
+    "storyInfo": null,
+    "gameInfo": "FIrst Gameplay (All Achievements)\n📅 July 2025 - ⏱️ 0 Hours",
+    "timeInfo": null
+  },
+  {
+    "name": "Pokemon: Violet",
+    "imagePath": "img/violet.png",
+    "totalHours": 0,
+    "hasPlatinum": 0,
+    "storyInfo": null,
+    "gameInfo": "Yuzu Gameplay\n📅 August 2025 - ⏱️ 4 Hours\n\nFull Switch Playthrough\n📅 September 2025 - ⏱️ _ Hours",
+    "timeInfo": null
+  }
 ]
