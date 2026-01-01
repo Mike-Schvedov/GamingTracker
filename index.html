@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Game Tracker</title>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Mono&family=Inter:wght@400;600;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --light-bg: #fef9f0;
+            --accent: #AFDDFF;
+            --primary: #5272F2;
+            --text-dark: #072541;
+            --card-bg: #fef9f0;
+            --section-bg: #e2f3ff;
+        }
+
+        * {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+        }
+
+        body {
+             font-family: 'Space Mono', monospace;
+            background: var(--light-bg);
+            padding: 30px;
+            color: var(--text-dark);
+			background-image: url('img/abc.png');
+			background-size: cover;         /* Fill screen, crop if needed */
+			background-repeat: no-repeat;   /* Don’t repeat the image */
+			background-position: center;    /* Center the image */
+        }
+
+        .header {
+            text-align: center;
+            font-size: 36px;
+            font-weight: 700;
+            color: var(--text-dark);
+            margin-bottom: 40px;
+        }
+
+        .game-list {
+            max-width: 1000px;
+            margin: auto;
+            display: flex;
+            flex-direction: column;
+			
+            gap: 4px;
+        }
+
+        .collapsible {
+            background: var(--card-bg);
+            border: 2px solid var(--primary);
+            border-radius: 14px;
+            box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+            display: flex;
+            align-items: center;
+            padding: 11px 12px;
+            cursor: pointer;
+			  font-family: "Space Mono", monospace;
+            transition: all 0.3s ease;
+        }
+
+        .collapsible:hover {
+            background: var(--accent);
+        }
+
+        .collapsible img {
+            height: 60px;
+            width: 170px;
+            object-fit: cover;
+            border-radius: 10px;
+            margin-right: 20px;
+            border: 2px solid var(--primary);
+        }
+
+        .collapsible span.name {
+            flex: 1;
+            font-weight: 600;
+            font-size: 16px;
+            color: var(--text-dark);
+            text-align: left;
+        }
+
+        .collapsible span.hours {
+            font-weight: 500;
+            font-size: 16px;
+            color: var(--primary);
+            font-family: 'Space Mono', monospace;
+        }
+
+        .content {
+            display: none;
+            flex-direction: column;
+            background: var(--card-bg);
+            border-radius: 14px;
+            padding: 24px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+            gap: 20px;
+            color: var(--text-dark);
+	
+        }
+
+        .section {
+            background: var(--section-bg);
+            border-left: 4px solid var(--primary);
+            border-radius: 10px;
+			font-family: "Space Mono", monospace;
+            padding: 18px;
+			
+        }
+
+        .image-row {
+            display: flex;
+            gap: 10px;
+            margin-bottom: 12px;
+        }
+
+        .image-row img {
+            width: 42px;
+            height: 42px;
+            object-fit: contain;
+        }
+
+        .text-content {
+            font-family: "Space Mono", monospace;
+            white-space: pre-line;
+            font-size: 12px; // The text inside the sections
+            line-height: 1.6;
+            color: var(--text-dark);
+        }
+    </style>
+</head>
+<body>
+    <div class="header">Game Tracker</div>
+    <div class="game-list" id="gameList"></div>
+
+    <script>
+        function toggleCollapse(element) {
+            const content = element.nextElementSibling;
+            content.style.display = content.style.display === "flex" ? "none" : "flex";
+        }
+    </script>
+
+
+
+<script>
+async function loadGames() {
+    const response = await fetch('./games.json');
+    let games = await response.json();
+
+    // Sort by totalHours descending
+    games.sort((a, b) => b.totalHours - a.totalHours);
+
+    const gameList = document.getElementById('gameList');
+
+    games.forEach(game => {
+        const button = document.createElement('button');
+        button.className = 'collapsible';
+        button.onclick = () => toggleCollapse(button);
+
+        button.innerHTML = `
+            <img src="${game.imagePath}" alt="${game.name}">
+            <span class="name">${game.name}</span>
+            <span class="hours">${game.totalHours} hrs</span>
+        `;
+
+        const content = document.createElement('div');
+        content.className = 'content';
+
+        if (game.storyInfo) {
+            content.appendChild(createSection(game.storyInfo, game.hasPlatinum));
+        }
+        if (game.gameInfo) {
+            content.appendChild(createSection(game.gameInfo));
+        }
+        if (game.timeInfo) {
+            content.appendChild(createSection(game.timeInfo));
+        }
+
+        gameList.appendChild(button);
+        gameList.appendChild(content);
+    });
+}
+
+function createSection(text, platinumCount = 0) {
+    const section = document.createElement('div');
+    section.className = 'section';
+
+    if (platinumCount > 0) {
+        const imageRow = document.createElement('div');
+        imageRow.className = 'image-row';
+
+        for (let i = 0; i < platinumCount; i++) {
+            const img = document.createElement('img');
+            img.src = 'img/platinum.png';
+            img.alt = `Platinum ${i + 1}`;
+            imageRow.appendChild(img);
+        }
+
+        section.appendChild(imageRow);
+    }
+
+    const p = document.createElement('p');
+    p.className = 'text-content';
+    p.textContent = text;
+
+    section.appendChild(p);
+    return section;
+}
+
+function toggleCollapse(element) {
+    const content = element.nextElementSibling;
+    content.style.display = content.style.display === "flex" ? "none" : "flex";
+}
+
+loadGames();
+</script>
+
+
+</body>
+</html>
