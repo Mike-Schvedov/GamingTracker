@@ -62,6 +62,15 @@
     "gameInfo": "Played after buying the game\n📅 May 2021\n\nPlayed completing various trophies\n📅 September 2024",
     "timeInfo": null
   },
+        {
+    "name": "Arc Raiders",
+    "imagePath": "img/arc.png",
+    "totalHours": 135,
+    "hasPlatinum": 0,
+    "storyInfo": "✅ Story Completed",
+    "gameInfo": "Solo Gameplay + with Omri\n📅 November 2025:\nMultiplayer - ⏱️ 135 Hours\n",
+    "timeInfo": null
+  },
   {
     "name": "Counter Strike",
     "imagePath": "img/cs2.png",
@@ -89,15 +98,7 @@
     "gameInfo": "First Gameplay\n📅 November 2021 — ⏱️ 15 hours\n\nFull Playthrough (Medium)\n📅 2022–2023 — ⏱️ 84 hours\n",
     "timeInfo": null
   },
-      {
-    "name": "Arc Raiders",
-    "imagePath": "img/arc.png",
-    "totalHours": 95,
-    "hasPlatinum": 0,
-    "storyInfo": null,
-    "gameInfo": "Solo Gameplay + with Omri\n📅 November 2025:\nMultiplayer - ⏱️ 95 Hours\n",
-    "timeInfo": null
-  },
+
   {
     "name": "Stardew Valley",
     "imagePath": "img/stardew_valley.jpg",
@@ -122,7 +123,7 @@
     "totalHours": 85,
     "hasPlatinum": 1,
     "storyInfo": "✅ Story Completed\n+ The Following DLC",
-    "gameInfo": "Old PS4 Platinum\n📅 N/A - ⏱️ 47 Hours\n\nNew PC Gameplay\n📅 2018/2021 - ⏱️ 38 Hours",
+    "gameInfo": "Old PS4 Platinum\n📅 N/A - ⏱️ 47 Hours\n\nNew PC Gameplay\n📅 2018/2021 - ⏱️ 38 Hours\n\nAll Achievements Playthrough \n📅 January 2026 - ⏱️ 0 Hours",
     "timeInfo": null
   },
   {
@@ -293,7 +294,7 @@
     "totalHours": 38,
     "hasPlatinum": 0,
     "storyInfo": null,
-    "gameInfo": null,
+    "gameInfo": "First Gameplay\n📅 July-August 2022 - ⏱️ 38 Hours\n\nAll Achievements Playthrough\n📅  N/A - ⏱️ 0",
     "timeInfo": null
   },
   {
