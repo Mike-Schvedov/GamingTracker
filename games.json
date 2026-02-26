@@ -123,7 +123,7 @@
     "totalHours": 85,
     "hasPlatinum": 1,
     "storyInfo": "✅ Story Completed\n⚔️ Normal 2/4",
-    "gameInfo": "Old PS4 Gameplay\n📅 N/A : \nStory (Normal) + Platinum - ⏱️ 47 Hours\n\nNew PC Gameplay\n📅 2018/2021 : \n Story (Not Completed) - ⏱️ 38 Hours\n\nAll Steam Achievements\n📅 January - ???? 2026:\nStory (Hard) + Achievements - ⏱️ 0 Hours\nThe Following + Achievements - ⏱️ 0 Hours\nParkur Fever + Achievements - ⏱️ 0 Hours\nBozak Horde + Achievements - ⏱️ 0 Hours\nHellraid + Achievements - ⏱️ 0 Hours",
+    "gameInfo": "Old PS4 Gameplay\n📅 N/A : \nStory (Normal) + Platinum - ⏱️ 47 Hours\n\nNew PC Gameplay\n📅 2018/2021 : \n Story (Not Completed) - ⏱️ 38 Hours\n\nAll Steam Achievements\n📅 January - ???? 2026:\nStory (Hard) + Achievements - ⏱️ 0 Hours\nThe Following + Achievements - ⏱️ 0 Hours\nBozak Horde + Achievements - ⏱️ 0 Hours\nHellraid + Achievements - ⏱️ 0 Hours",
     "timeInfo": null
   },
   {
@@ -342,6 +342,16 @@
     "gameInfo": null,
     "timeInfo": null
   },
+    {
+    "name": "Pokemon: Violet",
+    "imagePath": "img/violet.png",
+    "totalHours": 28,
+    "hasPlatinum": 0,
+    "storyInfo": null,
+    "gameInfo": "Yuzu Gameplay\n📅 August 2025 - ⏱️ 4 Hours\n\nSwitch Playthrough\n📅 September 2025 - ⏱️ 24 Hours\n\n📅 ?? ?? - ⏱️ 00 Hours",
+    "timeInfo": null
+  }
+  ,
   {
     "name": "Farming Simulator 25",
     "imagePath": "img/farming25.png",
@@ -568,6 +578,16 @@
     "gameInfo": null,
     "timeInfo": null
   },
+{
+    "name": "Satisfactory",
+    "imagePath": "img/satisfactory.png",
+    "totalHours": 5,
+    "hasPlatinum": 0,
+    "storyInfo": null,
+    "gameInfo": "First Gameplay\n📅 July 2025 - ⏱️ 5:40 Hours",
+    "timeInfo": null
+  }
+  ,
   {
     "name": "Battlefield: Bad Company 2",
     "imagePath": "img/badcomp.jpg",
@@ -657,23 +677,7 @@
     "storyInfo": null,
     "gameInfo": null,
     "timeInfo": null
-  },
-  {
-    "name": "Satisfactory",
-    "imagePath": "img/satisfactory.png",
-    "totalHours": 0,
-    "hasPlatinum": 0,
-    "storyInfo": null,
-    "gameInfo": "FIrst Gameplay (All Achievements)\n📅 July 2025 - ⏱️ 0 Hours",
-    "timeInfo": null
-  },
-  {
-    "name": "Pokemon: Violet",
-    "imagePath": "img/violet.png",
-    "totalHours": 0,
-    "hasPlatinum": 0,
-    "storyInfo": null,
-    "gameInfo": "Yuzu Gameplay\n📅 August 2025 - ⏱️ 4 Hours\n\nFull Switch Playthrough\n📅 September 2025 - ⏱️ _ Hours",
-    "timeInfo": null
   }
+  
+
 ]
