@@ -65,10 +65,10 @@
         {
     "name": "Arc Raiders",
     "imagePath": "img/arc.png",
-    "totalHours": 138,
+    "totalHours": 141,
     "hasPlatinum": 0,
     "storyInfo": "✅ Story Completed",
-    "gameInfo": "Solo Gameplay + with Omri\n📅 November 2025:\nMultiplayer - ⏱️ 135 Hours\n",
+    "gameInfo": "Solo Gameplay + with Omri\n📅 November 2025:\nMultiplayer - ⏱️ 141 Hours\n",
     "timeInfo": null
   },
   {
@@ -105,7 +105,7 @@
     "totalHours": 91,
     "hasPlatinum": 0,
     "storyInfo": "✅ Story Completed",
-    "gameInfo": "First Gameplay\n📅 2021-2022:\nStory - ⏱️ 91 Hours",
+    "gameInfo": "First Playthrough\n📅 2021-2022:\nStory - ⏱️ 91 Hours\n\nContinue First Playthrough\n📅 January 2026: \n Story - ⏱️ 0 Hours",
     "timeInfo": null
   },
   {
@@ -122,8 +122,8 @@
     "imagePath": "img/dying_light.jpg",
     "totalHours": 85,
     "hasPlatinum": 1,
-    "storyInfo": "✅ Story Completed\n⚔️ Normal 2/4",
-    "gameInfo": "Old PS4 Gameplay\n📅 N/A : \nStory (Normal) + Platinum - ⏱️ 47 Hours\n\nNew PC Gameplay\n📅 2018/2021 : \n Story (Not Completed) - ⏱️ 38 Hours\n\nAll Steam Achievements\n📅 January - ???? 2026:\nStory (Hard) + Achievements - ⏱️ 0 Hours\nThe Following + Achievements - ⏱️ 0 Hours\nBozak Horde + Achievements - ⏱️ 0 Hours\nHellraid + Achievements - ⏱️ 0 Hours",
+    "storyInfo": "✅ Story Completed\n⚔️ Hard 3/4",
+    "gameInfo": "Old PS4 Gameplay\n📅 N/A : \nStory (Normal) + Platinum - ⏱️ 47 Hours\n\nNew PC Gameplay\n📅 2018/2021 : \n Story (Not Completed) - ⏱️ 38 Hours\n\nAll Steam Achievements\n📅 January - ???? 2026:\nStory (Hard) + Achievements - ⏱️ 36 Hours\nThe Following + Achievements - ⏱️ 0 Hours\nBozak Horde + Achievements - ⏱️ 0 Hours\nHellraid + Achievements - ⏱️ 0 Hours",
     "timeInfo": null
   },
   {
@@ -677,7 +677,16 @@
     "storyInfo": null,
     "gameInfo": null,
     "timeInfo": null
-  }
+  },
+   {
+    "name": "Cooking Simulator",
+    "imagePath": "img/cooking.png",
+    "totalHours": 11,
+    "hasPlatinum": 0,
+    "storyInfo": null,
+    "gameInfo": "First Gameplay\n📅 August 2021:\nCarrer - ⏱️ 10 Hours\n\nNew Gameplay\n📅 March 2026: \n Carrer - ⏱️ 0 Hours\nPizza - ⏱️ 0 Hours\nCakes & Cookies - ⏱️ 0 Hours",
+    "timeInfo": null
+  },
   
 
 ]
