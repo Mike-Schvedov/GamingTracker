@@ -102,10 +102,10 @@
   {
     "name": "Stardew Valley",
     "imagePath": "img/stardew_valley.jpg",
-    "totalHours": 91,
+    "totalHours": 138,
     "hasPlatinum": 0,
     "storyInfo": "✅ Story Completed",
-    "gameInfo": "First Playthrough\n📅 2021-2022:\nStory - ⏱️ 91 Hours\n\nContinue First Playthrough\n📅 January 2026: \n Story - ⏱️ 0 Hours",
+    "gameInfo": "First Playthrough\n📅 2021-2022:\nStory - ⏱️ 91 Hours\n\nContinue First Playthrough\n📅 January 2026: \n Story - ⏱️ 47:30 Hours",
     "timeInfo": null
   },
   {
@@ -120,10 +120,10 @@
   {
     "name": "Dying Light",
     "imagePath": "img/dying_light.jpg",
-    "totalHours": 85,
+    "totalHours": 122,
     "hasPlatinum": 1,
     "storyInfo": "✅ Story Completed\n⚔️ Hard 3/4",
-    "gameInfo": "Old PS4 Gameplay\n📅 N/A : \nStory (Normal) + Platinum - ⏱️ 47 Hours\n\nNew PC Gameplay\n📅 2018/2021 : \n Story (Not Completed) - ⏱️ 38 Hours\n\nAll Steam Achievements\n📅 January - ???? 2026:\nStory (Hard) + Achievements - ⏱️ 36 Hours\nThe Following + Achievements - ⏱️ 0 Hours\nBozak Horde + Achievements - ⏱️ 0 Hours\nHellraid + Achievements - ⏱️ 0 Hours",
+    "gameInfo": "Old PS4 Gameplay\n📅 N/A : \nStory (Normal) + Platinum - ⏱️ 47 Hours\n\nNew PC Gameplay\n📅 2018/2021 : \n Story (Not Completed) - ⏱️ 38 Hours\n\nAll Steam Achievements\n📅 January - ???? 2026:\nStory (Hard) + Achievements - ⏱️ 36:40 Hours\nThe Following + Achievements - ⏱️ 0:30 Hours\nBozak Horde + Achievements - ⏱️ 0 Hours\nHellraid + Achievements - ⏱️ 0 Hours",
     "timeInfo": null
   },
   {
@@ -661,7 +661,7 @@
     "timeInfo": null
   },
   {
-    "name": "Need for Speed",
+    "name": "Need for Speed (2015)",
     "imagePath": "img/nfs.jpg",
     "totalHours": 0,
     "hasPlatinum": 0,
@@ -681,12 +681,21 @@
    {
     "name": "Cooking Simulator",
     "imagePath": "img/cooking.png",
-    "totalHours": 11,
+    "totalHours": 20,
     "hasPlatinum": 0,
     "storyInfo": null,
-    "gameInfo": "First Gameplay\n📅 August 2021:\nCarrer - ⏱️ 10 Hours\n\nNew Gameplay\n📅 March 2026: \n Carrer - ⏱️ 0 Hours\nPizza - ⏱️ 0 Hours\nCakes & Cookies - ⏱️ 0 Hours",
+    "gameInfo": "First Gameplay\n📅 August 2021:\nCareer - ⏱️ 10 Hours\n\nNew Gameplay\n📅 March 2026: \n Career - ⏱️ 0 Hours\nPizza - ⏱️ 10:00 Hours\nCakes & Cookies - ⏱️ 0 Hours\nSushi - ⏱️ 0 Hours\nBBQ - ⏱️ 0 Hours\nShelter - ⏱️ 0 Hours",
     "timeInfo": null
   },
+     {
+    "name": "Electrician Simulator",
+    "imagePath": "img/electric.png",
+    "totalHours": 7,
+    "hasPlatinum": 0,
+    "storyInfo": null,
+    "gameInfo": "First Gameplay\n📅 April 2026:\nAll Achievements - ⏱️ 10 Hours",
+    "timeInfo": null
+  }
   
 
 ]
