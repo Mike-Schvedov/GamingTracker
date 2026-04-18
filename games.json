@@ -687,13 +687,40 @@
     "gameInfo": "First Gameplay\n📅 August 2021:\nCareer - ⏱️ 10 Hours\n\nNew Gameplay\n📅 March 2026: \n Career - ⏱️ 0 Hours\nPizza - ⏱️ 10:00 Hours\nCakes & Cookies - ⏱️ 0 Hours\nSushi - ⏱️ 0 Hours\nBBQ - ⏱️ 0 Hours\nShelter - ⏱️ 0 Hours",
     "timeInfo": null
   },
-     {
+  {
     "name": "Electrician Simulator",
     "imagePath": "img/electric.png",
-    "totalHours": 7,
+    "totalHours": 8,
+    "hasPlatinum": 1,
+    "storyInfo":  "✅ Story Completed",
+    "gameInfo": "First Gameplay\n📅 April 2026:\nAll Achievements - ⏱️ 8 Hours",
+    "timeInfo": null
+  },
+  {
+    "name": "Forza Horizon 4",
+    "imagePath": "img/fh4.png",
+    "totalHours": 1,
     "hasPlatinum": 0,
-    "storyInfo": null,
-    "gameInfo": "First Gameplay\n📅 April 2026:\nAll Achievements - ⏱️ 10 Hours",
+    "storyInfo":  null,
+    "gameInfo": "First Gameplay\n📅 April 2026:\nGameplay - ⏱️ 0 Hours",
+    "timeInfo": null
+  },
+  {
+    "name": "Assetto Corsa",
+    "imagePath": "img/assetto.png",
+    "totalHours": 1,
+    "hasPlatinum": 0,
+    "storyInfo":  null,
+    "gameInfo": "First Gameplay\n📅 April 2026:\nCareer (AI 85%) + Achievements - ⏱️ 0 Hours",
+    "timeInfo": null
+  },
+  {
+    "name": "Forza Horizon 6",
+    "imagePath": "img/fh6.jpg",
+    "totalHours": 0,
+    "hasPlatinum": 0,
+    "storyInfo":  null,
+    "gameInfo": "First Gameplay\n📅 May 2026:\nAll Achievements - ⏱️ 0 Hours",
     "timeInfo": null
   }
   
