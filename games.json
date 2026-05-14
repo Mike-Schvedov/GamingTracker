@@ -699,19 +699,19 @@
   {
     "name": "Forza Horizon 4",
     "imagePath": "img/fh4.png",
-    "totalHours": 1,
+    "totalHours": 2,
     "hasPlatinum": 0,
     "storyInfo":  null,
-    "gameInfo": "First Gameplay\n📅 April 2026:\nGameplay - ⏱️ 0 Hours",
+    "gameInfo": "First Gameplay\n📅 April 2026:\nGameplay - ⏱️ 2 Hours",
     "timeInfo": null
   },
   {
     "name": "Assetto Corsa",
     "imagePath": "img/assetto.png",
-    "totalHours": 1,
+    "totalHours": 32,
     "hasPlatinum": 0,
     "storyInfo":  null,
-    "gameInfo": "First Gameplay\n📅 April 2026:\nCareer (AI 85%) + Achievements - ⏱️ 0 Hours",
+    "gameInfo": "First Gameplay\n📅 April 2026:\nCareer (AI 80%) + Achievements - ⏱️ 32 Hours",
     "timeInfo": null
   },
   {
@@ -719,7 +719,7 @@
     "imagePath": "img/fh6.jpg",
     "totalHours": 0,
     "hasPlatinum": 0,
-    "storyInfo":  null,
+    "storyInfo":  "X Story Pending\n⚔️ Races Only 1st Person + Only Wheel and Shifter. AI Difficutly ?/?",
     "gameInfo": "First Gameplay\n📅 May 2026:\nAll Achievements - ⏱️ 0 Hours",
     "timeInfo": null
   }
