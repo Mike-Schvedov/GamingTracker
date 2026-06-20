@@ -130,10 +130,18 @@
             line-height: 1.6;
             color: var(--text-dark);
         }
+
+        .story-completed {
+            border-color: #00c853 !important;
+            background: #00c853 !important;
+        }
     </style>
 </head>
 <body>
     <div class="header">Game Tracker</div>
+
+    <button id="storyFilterBtn" onclick="toggleStoryFilter()" style="display:block; margin: 0 auto 20px auto; width:50px; height:50px; border-radius:50%; border:2px solid #00c853; background:#fff; font-size:24px; cursor:pointer;">✅</button>
+
     <div class="game-list" id="gameList"></div>
 
     <script>
@@ -150,6 +158,8 @@ async function loadGames() {
     const response = await fetch('./games.json');
     let games = await response.json();
 
+    
+
     // Sort by totalHours descending
     games.sort((a, b) => b.totalHours - a.totalHours);
 
@@ -158,6 +168,7 @@ async function loadGames() {
     games.forEach(game => {
         const button = document.createElement('button');
         button.className = 'collapsible';
+        button.dataset.hasStory = game.storyInfo ? 'true' : 'false';
         button.onclick = () => toggleCollapse(button);
 
         button.innerHTML = `
@@ -214,6 +225,18 @@ function toggleCollapse(element) {
     const content = element.nextElementSibling;
     content.style.display = content.style.display === "flex" ? "none" : "flex";
 }
+
+let storyFilterActive = false;
+
+function toggleStoryFilter() {
+    storyFilterActive = !storyFilterActive;
+    document.querySelectorAll('.collapsible').forEach(btn => {
+        if (btn.dataset.hasStory === 'true') {
+            btn.classList.toggle('story-completed', storyFilterActive);
+        }
+    });
+}
+
 
 loadGames();
 </script>

@@ -40,7 +40,7 @@
     "imagePath": "img/pubg.jpg",
     "totalHours": 181,
     "hasPlatinum": 0,
-    "storyInfo": null,
+    "storyInfo": "No Story",
     "gameInfo": "📅 𝗡/𝗔 • 𝗢𝗹𝗱 𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆 📅",
     "timeInfo": null
   },
@@ -94,7 +94,7 @@
     "imagePath": "img/cs2.png",
     "totalHours": 120,
     "hasPlatinum": 0,
-    "storyInfo": null,
+    "storyInfo": "No Story",
     "gameInfo": "📅 𝗡/𝗔 • 𝗢𝗹𝗱 𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆 📅\n➤ Online - ⏱️ 59 Hours\n\n📅 𝟮𝟬𝟮𝟱 • 𝗡𝗲𝘄 𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆 📅\n➤ Online - ⏱️ 61 Hours",
     "timeInfo": null
   },
@@ -142,7 +142,7 @@
     "imagePath": "img/bf6.png",
     "totalHours": 75,
     "hasPlatinum": 0,
-    "storyInfo": null,
+    "storyInfo": "No Story",
     "gameInfo": "📅 𝗔𝘂𝗴𝘂𝘀𝘁 𝟮𝟬𝟮𝟱 • 𝗢𝗽𝗲𝗻 𝗕𝗲𝘁𝗮 📅\n➤ Multiplayer - ⏱️ 10 Hours\n\n📅 𝗢𝗰𝘁𝗼𝗯𝗲𝗿 𝟮𝟬𝟮𝟱 • 𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆 𝘄𝗶𝘁𝗵 𝗢𝗺𝗿𝗶/𝗦𝗼𝗹𝗼 📅\n➤ Multiplayer - ⏱️ 65 Hours",
     "timeInfo": null
   },
@@ -222,7 +222,7 @@
     "name": "Helldivers 2",
     "imagePath": "img/helldivers2.png",
     "totalHours": 46,
-    "hasPlatinum": 0,
+    "hasPlatinum": "No Story",
     "storyInfo": null,
     "gameInfo": "📅 𝗗𝗲𝗰𝗲𝗺𝗯𝗲𝗿 𝟮𝟬𝟮𝟰 • 𝗙𝗶𝗿𝘀𝘁 𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆 𝘄𝗶𝘁𝗵 𝗢𝗺𝗿𝗶/𝗦𝗼𝗹𝗼 📅 \n➤ Online - ⏱️ 46 Hours",
     "timeInfo": null
@@ -277,7 +277,7 @@
     "imagePath": "img/sims.png",
     "totalHours": 39,
     "hasPlatinum": 1,
-    "storyInfo": null,
+    "storyInfo": "No Story",
     "gameInfo": "📅 𝗡/𝗔 • 𝗣𝗦𝟰 𝗣𝗹𝗮𝘁𝗶𝗻𝘂𝗺 📅➤\n Gameplay - ⏱️ 37 Hours\n\n📅 𝟮𝟬𝟮𝟮 • 𝗣𝗖 𝗝𝘂𝘀𝘁 𝗳𝗼𝗿 𝗙𝘂𝗻 📅\n➤ Gameplay - ⏱️ 2",
     "timeInfo": null
   },
@@ -313,7 +313,7 @@
     "imagePath": "img/tactics.png",
     "totalHours": 33,
     "hasPlatinum": 0,
-    "storyInfo": "✅ Story Completed\n⚔️Hardcore 3/3",
+    "storyInfo": "✅ Story Completed",
     "gameInfo": null,
     "timeInfo": null
   },
@@ -359,7 +359,7 @@
     "imagePath": "img/farming25.png",
     "totalHours": 26,
     "hasPlatinum": 0,
-    "storyInfo": null,
+    "storyInfo": "No Story",
     "gameInfo": "📅 𝗗𝗲𝗰𝗲𝗺𝗯𝗲𝗿 𝟮𝟬𝟮𝟰 • 𝗙𝗶𝗿𝘀𝘁 𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆 (𝗖𝘂𝘀𝘁𝗼𝗺 𝗛𝗮𝗿𝗱𝗲𝘀𝘁 𝗗𝗶𝗳𝗳𝗶𝗰𝘂𝗹𝘁𝘆) 📅\n➤ Gameplay - ⏱️ 26 Hours",
     "timeInfo": null
   },
@@ -404,7 +404,7 @@
     "imagePath": "img/ptcgo.jpg",
     "totalHours": 20,
     "hasPlatinum": 0,
-    "storyInfo": null,
+    "storyInfo": "No Story",
     "gameInfo": "📅 𝗗𝗲𝗰𝗲𝗺𝗯𝗲𝗿 𝟮𝟬𝟮𝟰 • 𝗙𝗶𝗿𝘀𝘁 𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆 📅\n➤ Gameplay - ⏱️ 20 Hours",
     "timeInfo": null
   },
@@ -422,7 +422,7 @@
     "imagePath": "img/apex.png",
     "totalHours": 16,
     "hasPlatinum": 0,
-    "storyInfo": null,
+    "storyInfo": "No Story",
     "gameInfo": null,
     "timeInfo": null
   },
@@ -458,7 +458,7 @@
     "imagePath": "img/poketcg.png",
     "totalHours": 12,
     "hasPlatinum": 0,
-    "storyInfo": null,
+    "storyInfo": "No Story",
     "gameInfo": "📅 𝗡/𝗔 • 𝗢𝗹𝗱 𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆 📅\n➤ Gameplay - ⏱️ 12 Hours",
     "timeInfo": null
   },
@@ -504,7 +504,7 @@
     "imagePath": "img/thunder.png",
     "totalHours": 10,
     "hasPlatinum": 0,
-    "storyInfo": null,
+    "storyInfo": "No Story",
     "gameInfo": null,
     "timeInfo": null
   },
@@ -540,7 +540,7 @@
     "imagePath": "img/rust.png",
     "totalHours": 9,
     "hasPlatinum": 0,
-    "storyInfo": null,
+    "storyInfo": "No Story",
     "gameInfo": null,
     "timeInfo": null
   },
@@ -604,7 +604,7 @@
     "imagePath": "img/flight.png",
     "totalHours": 5,
     "hasPlatinum": 0,
-    "storyInfo": null,
+    "storyInfo": "No Story",
     "gameInfo": null,
     "timeInfo": null
   },
@@ -739,7 +739,7 @@
     "imagePath": "img/omegaruby.jpg",
     "totalHours": 0,
     "hasPlatinum": 0,
-    "storyInfo": "- Story Pending",
+    "storyInfo": "",
     "gameInfo": "📅 𝗝𝘂𝗻𝗲 𝟮𝟬𝟮𝟲  • 𝗙𝗶𝗿𝘀𝘁 𝗣𝗹𝗮𝘆𝘁𝗵𝗿𝗼𝘂𝗴𝗵 📅\n➤ Story - ⏱️ 0 Hours",
     "timeInfo": null
   }
