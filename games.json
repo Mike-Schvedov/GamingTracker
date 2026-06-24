@@ -236,6 +236,15 @@
     "gameInfo": "📅 𝟮𝟬𝟮𝟬/𝟮𝟬𝟮𝟯 • 𝗣𝗖 𝗣𝗹𝗮𝘆𝘁𝗵𝗿𝗼𝘂𝗴𝗵 - 𝗙𝗶𝗿𝘀𝘁 𝗣𝗲𝗿𝘀𝗼𝗻 𝗢𝗻𝗹𝘆 📅\n➤ Story - ⏱️ 29\n➤ Online - ⏱️ 17",
     "timeInfo": null
   },
+   {
+    "name": "Forza Horizon 6",
+    "imagePath": "img/fh6.jpg",
+    "totalHours": 41,
+    "hasPlatinum": 0,
+    "storyInfo":  "✅ Story Completed\n⚔️Only Wheel and Shifter\n⚔️Novice 3/9 (AI Difficulty)",
+    "gameInfo": "📅 𝗠𝗮𝘆 𝟮𝟬𝟮𝟲 • 𝗙𝗶𝗿𝘀𝘁 𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆 📅\n➤ Story + All Achievements - ⏱️ 0 Hours",
+    "timeInfo": null
+  },
   {
     "name": "Star Wars: Battlefront 2",
     "imagePath": "img/battlefront2.jpg",
@@ -350,7 +359,7 @@
     "totalHours": 28,
     "hasPlatinum": 0,
     "storyInfo": null,
-    "gameInfo": "📅 𝗔𝘂𝗴𝘂𝘀𝘁 𝟮𝟬𝟮𝟱 • 𝗬𝘂𝘇𝘂 𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆 📅\n➤ Story - ⏱️ 4 Hours\n\n📅 𝗦𝗲𝗽𝘁𝗲𝗺𝗯𝗲𝗿 𝟮𝟬𝟮𝟱 • 𝗦𝘄𝗶𝘁𝗰𝗵 𝗣𝗹𝗮𝘆𝘁𝗵𝗿𝗼𝘂𝗴𝗵 📅\n➤ Story (Not Completed) - ⏱️ 24 Hours\n\n📅 𝗝𝘂𝗻𝗲-𝗝𝘂𝗹𝘆 𝟮𝟬𝟮𝟲 • 𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲𝗱 𝗣𝗿𝗲𝘃𝗶𝗼𝘂𝘀 𝗣𝗹𝗮𝘆𝘁𝗵𝗿𝗼𝘂𝗴𝗵 📅\n➤ Story - ⏱️ 00 Hours",
+    "gameInfo": "📅 𝗔𝘂𝗴𝘂𝘀𝘁 𝟮𝟬𝟮𝟱 • 𝗬𝘂𝘇𝘂 𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆 📅\n➤ Story - ⏱️ 4 Hours\n\n📅 𝗦𝗲𝗽𝘁𝗲𝗺𝗯𝗲𝗿 𝟮𝟬𝟮𝟱 • 𝗦𝘄𝗶𝘁𝗰𝗵 𝗣𝗹𝗮𝘆𝘁𝗵𝗿𝗼𝘂𝗴𝗵 📅\n➤ Story (Not Completed) - ⏱️ 24 Hours\n\n📅 𝗝𝘂𝗻𝗲-𝗝𝘂𝗹𝘆 𝟮𝟬𝟮𝟲 • 𝗖𝗼𝗻𝘁𝗶𝗻𝘂𝗲𝗱 𝗣𝗿𝗲𝘃𝗶𝗼𝘂𝘀 𝗣𝗹𝗮𝘆𝘁𝗵𝗿𝗼𝘂𝗴𝗵 📅\n➤ Story - ⏱️ 00 Hours\n➤ Post-Story Shinny Hunting (For Pokemon Champions) - ⏱️ 00 Hours",
     "timeInfo": null
   }
   ,
@@ -716,15 +725,7 @@
     "gameInfo": "📅 𝗔𝗽𝗿𝗶𝗹 𝟮𝟬𝟮𝟲 • 𝗙𝗶𝗿𝘀𝘁 𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆 📅\n➤ Career (AI 80%) + Achievement Hunting - ⏱️ 32 Hours",
     "timeInfo": null
   },
-  {
-    "name": "Forza Horizon 6",
-    "imagePath": "img/fh6.jpg",
-    "totalHours": 38,
-    "hasPlatinum": 0,
-    "storyInfo":  "- Story Pending\n⚔️Only Wheel and Shifter\n⚔️Novice 3/9 (AI Difficulty)",
-    "gameInfo": "📅 𝗠𝗮𝘆 𝟮𝟬𝟮𝟲 • 𝗙𝗶𝗿𝘀𝘁 𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆 📅\n➤ Story + All Achievements - ⏱️ 0 Hours",
-    "timeInfo": null
-  },
+ 
    {
     "name": "Pokemon: FireRed",
     "imagePath": "img/firered.jpg",
@@ -741,6 +742,15 @@
     "hasPlatinum": 0,
     "storyInfo": "",
     "gameInfo": "📅 𝗝𝘂𝗻𝗲 𝟮𝟬𝟮𝟲  • 𝗙𝗶𝗿𝘀𝘁 𝗣𝗹𝗮𝘆𝘁𝗵𝗿𝗼𝘂𝗴𝗵 📅\n➤ Story - ⏱️ 0 Hours",
+    "timeInfo": null
+  },
+   {
+    "name": "Pokemon: Champions",
+    "imagePath": "img/champions.png",
+    "totalHours": 0,
+    "hasPlatinum": 0,
+    "storyInfo": "",
+    "gameInfo": "📅 𝗝𝘂𝗻𝗲 𝟮𝟬𝟮𝟲  • 𝗙𝗶𝗿𝘀𝘁 𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆 📅\n➤ Story - ⏱️ 0 Hours",
     "timeInfo": null
   }
   
