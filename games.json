@@ -282,6 +282,16 @@
     "timeInfo": null
   },
   {
+    "name": "Pokemon: Violet",
+    "imagePath": "img/violet.png",
+    "totalHours": 40,
+    "hasPlatinum": 0,
+    "storyInfo": "✅ Story Completed",
+    "gameInfo": "📅 𝗔𝘂𝗴𝘂𝘀𝘁 𝟮𝟬𝟮𝟱 • 𝗬𝘂𝘇𝘂 𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆 📅\n➤ Story - ⏱️ 4 Hours\n\n📅 𝗦𝗲𝗽𝘁𝗲𝗺𝗯𝗲𝗿 𝟮𝟬𝟮𝟱 • 𝗦𝘄𝗶𝘁𝗰𝗵 𝗣𝗹𝗮𝘆𝘁𝗵𝗿𝗼𝘂𝗴𝗵 📅\n➤ Story (Not Completed) - ⏱️ 24 Hours\n\n📅 𝗝𝘂𝗻𝗲-𝗝𝘂𝗹𝘆 𝟮𝟬𝟮𝟲 • 𝗖𝗼𝗻𝘁𝗶𝗻𝘂𝗲𝗱 𝗣𝗿𝗲𝘃𝗶𝗼𝘂𝘀 𝗣𝗹𝗮𝘆𝘁𝗵𝗿𝗼𝘂𝗴𝗵 📅\n➤ Story - ⏱️ 11:30 Hours\n➤ Post-Story Shinny Hunting (For Pokemon Champions) - ⏱️ 0:30 Hours",
+    "timeInfo": null
+  }
+  ,
+  {
     "name": "The Sims 4",
     "imagePath": "img/sims.png",
     "totalHours": 39,
@@ -326,6 +336,15 @@
     "gameInfo": null,
     "timeInfo": null
   },
+     {
+    "name": "Assetto Corsa",
+    "imagePath": "img/assetto.png",
+    "totalHours": 32,
+    "hasPlatinum": 0,
+    "storyInfo":  null,
+    "gameInfo": "📅 𝗔𝗽𝗿𝗶𝗹 𝟮𝟬𝟮𝟲 • 𝗙𝗶𝗿𝘀𝘁 𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆 📅\n➤ Career (AI 80%) + Achievement Hunting - ⏱️ 32 Hours",
+    "timeInfo": null
+  },
   {
     "name": "Dragon Ball: Sparking Zero",
     "imagePath": "img/db_zero.png",
@@ -333,6 +352,17 @@
     "hasPlatinum": 1,
     "storyInfo": "✅ Story Completed",
     "gameInfo": "📅 𝗢𝗰𝘁𝗼𝗯𝗲𝗿 𝟮𝟬𝟮𝟰 • 𝗙𝗶𝗿𝘀𝘁 𝗣𝗹𝗮𝘆𝘁𝗵𝗿𝗼𝘂𝗴𝗵 (𝗔𝗹𝗹 𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗺𝗲𝗻𝘁𝘀) 📅\n➤ Story - ⏱️ 31 Hours",
+    "timeInfo": null
+  },
+
+ 
+   {
+    "name": "Pokemon: FireRed",
+    "imagePath": "img/firered.jpg",
+    "totalHours": 30,
+    "hasPlatinum": 0,
+    "storyInfo": "✅ Story Completed",
+    "gameInfo": "📅 𝗡/𝗔  • 𝗢𝗹𝗱 𝗣𝗹𝗮𝘆𝘁𝗵𝗿𝗼𝘂𝗴𝗵 📅\n➤ Story - ⏱️30 Hours",
     "timeInfo": null
   },
   {
@@ -353,16 +383,7 @@
     "gameInfo": null,
     "timeInfo": null
   },
-    {
-    "name": "Pokemon: Violet",
-    "imagePath": "img/violet.png",
-    "totalHours": 28,
-    "hasPlatinum": 0,
-    "storyInfo": null,
-    "gameInfo": "📅 𝗔𝘂𝗴𝘂𝘀𝘁 𝟮𝟬𝟮𝟱 • 𝗬𝘂𝘇𝘂 𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆 📅\n➤ Story - ⏱️ 4 Hours\n\n📅 𝗦𝗲𝗽𝘁𝗲𝗺𝗯𝗲𝗿 𝟮𝟬𝟮𝟱 • 𝗦𝘄𝗶𝘁𝗰𝗵 𝗣𝗹𝗮𝘆𝘁𝗵𝗿𝗼𝘂𝗴𝗵 📅\n➤ Story (Not Completed) - ⏱️ 24 Hours\n\n📅 𝗝𝘂𝗻𝗲-𝗝𝘂𝗹𝘆 𝟮𝟬𝟮𝟲 • 𝗖𝗼𝗻𝘁𝗶𝗻𝘂𝗲𝗱 𝗣𝗿𝗲𝘃𝗶𝗼𝘂𝘀 𝗣𝗹𝗮𝘆𝘁𝗵𝗿𝗼𝘂𝗴𝗵 📅\n➤ Story - ⏱️ 00 Hours\n➤ Post-Story Shinny Hunting (For Pokemon Champions) - ⏱️ 00 Hours",
-    "timeInfo": null
-  }
-  ,
+    
   {
     "name": "Farming Simulator 25",
     "imagePath": "img/farming25.png",
@@ -460,6 +481,15 @@
     "hasPlatinum": 0,
     "storyInfo": null,
     "gameInfo": "📅 𝗝𝘂𝗹𝘆 𝟮𝟬𝟮𝟱 • 𝗙𝗶𝗿𝘀𝘁 𝗣𝗹𝗮𝘆𝘁𝗵𝗿𝗼𝘂𝗴𝗵 (𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗺𝗲𝗻𝘁 𝗛𝘂𝗻𝘁𝗶𝗻𝗴) 📅\n➤ Story (Not Completed) - ⏱️ 14 Hours",
+    "timeInfo": null
+  },
+     {
+    "name": "Pokemon: Omega Ruby",
+    "imagePath": "img/omegaruby.jpg",
+    "totalHours": 12,
+    "hasPlatinum": 0,
+    "storyInfo": "✅ Story Completed",
+    "gameInfo": "📅 𝗝𝘂𝗻𝗲 𝟮𝟬𝟮𝟲  • 𝗙𝗶𝗿𝘀𝘁 𝗣𝗹𝗮𝘆𝘁𝗵𝗿𝗼𝘂𝗴𝗵 📅\n➤ Story - ⏱️ 12 Hours",
     "timeInfo": null
   },
   {
@@ -716,34 +746,8 @@
     "gameInfo": "📅 𝗔𝗽𝗿𝗶𝗹 𝟮𝟬𝟮𝟲 • 𝗙𝗶𝗿𝘀𝘁 𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆 📅\n➤ Story - ⏱️ 2 Hours",
     "timeInfo": null
   },
-  {
-    "name": "Assetto Corsa",
-    "imagePath": "img/assetto.png",
-    "totalHours": 32,
-    "hasPlatinum": 0,
-    "storyInfo":  null,
-    "gameInfo": "📅 𝗔𝗽𝗿𝗶𝗹 𝟮𝟬𝟮𝟲 • 𝗙𝗶𝗿𝘀𝘁 𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆 📅\n➤ Career (AI 80%) + Achievement Hunting - ⏱️ 32 Hours",
-    "timeInfo": null
-  },
  
-   {
-    "name": "Pokemon: FireRed",
-    "imagePath": "img/firered.jpg",
-    "totalHours": 30,
-    "hasPlatinum": 0,
-    "storyInfo": "✅ Story Completed",
-    "gameInfo": "📅 𝗡/𝗔  • 𝗢𝗹𝗱 𝗣𝗹𝗮𝘆𝘁𝗵𝗿𝗼𝘂𝗴𝗵 📅\n➤ Story - ⏱️30 Hours",
-    "timeInfo": null
-  },
-   {
-    "name": "Pokemon: Omega Ruby",
-    "imagePath": "img/omegaruby.jpg",
-    "totalHours": 0,
-    "hasPlatinum": 0,
-    "storyInfo": "",
-    "gameInfo": "📅 𝗝𝘂𝗻𝗲 𝟮𝟬𝟮𝟲  • 𝗙𝗶𝗿𝘀𝘁 𝗣𝗹𝗮𝘆𝘁𝗵𝗿𝗼𝘂𝗴𝗵 📅\n➤ Story - ⏱️ 0 Hours",
-    "timeInfo": null
-  },
+
    {
     "name": "Pokemon: Champions",
     "imagePath": "img/champions.png",
@@ -751,6 +755,15 @@
     "hasPlatinum": 0,
     "storyInfo": "",
     "gameInfo": "📅 𝗝𝘂𝗻𝗲 𝟮𝟬𝟮𝟲  • 𝗙𝗶𝗿𝘀𝘁 𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆 📅\n➤ Story - ⏱️ 0 Hours",
+    "timeInfo": null
+  },
+     {
+    "name": "Crimson Desert",
+    "imagePath": "img/crimson.jpg",
+    "totalHours": 0,
+    "hasPlatinum": 0,
+    "storyInfo": "✅ Story Pending\n⚔️ Hard 3/3",
+    "gameInfo": "📅 𝗝𝘂𝗹𝘆 𝟮𝟬𝟮𝟲 • 𝗔𝗹𝗹 𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗺𝗲𝗻𝘁𝘀 & 𝟭𝟬𝟬% (𝗛𝗮𝗿𝗱 𝗗𝗶𝗳𝗳𝗶𝗰𝘂𝗹𝘁𝘆) 📅\n➤ Story/Exploration - ⏱️ 0 Hours",
     "timeInfo": null
   }
   
