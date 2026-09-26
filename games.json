@@ -53,6 +53,15 @@
     "gameInfo": "📅 𝟮𝟬𝟮𝟭 • 𝗢𝗹𝗱 𝗣𝗹𝗮𝘆𝘁𝗵𝗿𝗼𝘂𝗴𝗵𝘀 📅\n➤ Online - ⏱️ 152 Hours\n\n📅 𝗠𝗮𝘆 𝟮𝟬𝟮𝟱 • 𝗡𝗲𝘄 𝗟𝘂𝗰𝗶𝗱𝗶𝘂𝗺 𝗣𝗹𝗮𝘆𝘁𝗵𝗿𝗼𝘂𝗴𝗵 📅\n➤ Online - ⏱️ 5 Hours",
     "timeInfo": null
   },
+   {
+    "name": "Crimson Desert",
+    "imagePath": "img/crimson.jpg",
+    "totalHours": 147,
+    "hasPlatinum": 0,
+    "storyInfo": "✅ Story Completed\n⚔️ Hard 3/3",
+    "gameInfo": "📅 𝗝𝘂𝗹𝘆 𝟮𝟬𝟮𝟲 • 𝗔𝗹𝗹 𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗺𝗲𝗻𝘁𝘀 & 𝟭𝟬𝟬% (𝗛𝗮𝗿𝗱 𝗗𝗶𝗳𝗳𝗶𝗰𝘂𝗹𝘁𝘆) 📅\n➤ Story/Exploration - ⏱️ 147 Hours",
+    "timeInfo": null
+  },
   {
     "name": "Oxygen Not Included",
     "imagePath": "img/oxygen.jpg",
@@ -62,7 +71,7 @@
     "gameInfo": "📅 𝗠𝗮𝘆 𝟮𝟬𝟮𝟭 • 𝗙𝗶𝗿𝘀𝘁 𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆 📅\n\n📅 𝗦𝗲𝗽𝘁𝗲𝗺𝗯𝗲𝗿 𝟮𝟬𝟮𝟰 • 𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗺𝗲𝗻𝘁 𝗛𝘂𝗻𝘁𝗶𝗻𝗴 📅",
     "timeInfo": null
   },
-        {
+  {
     "name": "Arc Raiders",
     "imagePath": "img/arc.png",
     "totalHours": 141,
@@ -71,7 +80,7 @@
     "gameInfo": "📅 𝗡𝗼𝘃𝗲𝗺𝗯𝗲𝗿  𝟮𝟬𝟮𝟱  •  𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆 𝘄𝗶𝘁𝗵 𝗢𝗺𝗿𝗶/𝗦𝗼𝗹𝗼 📅\n➤ Multiplayer - ⏱️ 141 Hours\n",
     "timeInfo": null
   },
-   {
+  {
     "name": "Stardew Valley",
     "imagePath": "img/stardew_valley.jpg",
     "totalHours": 138,
@@ -116,8 +125,6 @@
     "gameInfo": "📅 𝗡𝗼𝘃𝗲𝗺𝗯𝗲𝗿 𝟮𝟬𝟮𝟭 • 𝗙𝗶𝗿𝘀𝘁 𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆 📅\n➤ Story — ⏱️ 15 hours\n\n📅 𝟮𝟬𝟮𝟮–𝟮𝟬𝟮𝟯 • 𝗙𝘂𝗹𝗹 𝗣𝗹𝗮𝘆𝘁𝗵𝗿𝗼𝘂𝗴𝗵 (𝗠𝗲𝗱𝗶𝘂𝗺) 📅\n➤ Story — ⏱️ 84 hours",
     "timeInfo": null
   },
-
-
   {
     "name": "Elden Ring",
     "imagePath": "img/elden.jpg",
@@ -127,7 +134,6 @@
     "gameInfo": "📅 𝗔𝗽𝗿𝗶𝗹 - 𝗝𝘂𝗹𝘆 𝟮𝟬𝟮𝟮 • 𝗙𝗶𝗿𝘀𝘁 𝗣𝗹𝗮𝘆𝘁𝗵𝗿𝗼𝘂𝗴𝗵 + 𝗔𝗹𝗹 𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗺𝗲𝗻𝘁𝘀 📅\n➤ Story — ⏱️ 86 hours",
     "timeInfo": null
   },
- 
   {
     "name": "Cyberpunk 2077",
     "imagePath": "img/cyber.png",
@@ -140,10 +146,19 @@
   {
     "name": "Battlefield 6",
     "imagePath": "img/bf6.png",
-    "totalHours": 75,
+    "totalHours": 76,
     "hasPlatinum": 0,
-    "storyInfo": "No Story",
-    "gameInfo": "📅 𝗔𝘂𝗴𝘂𝘀𝘁 𝟮𝟬𝟮𝟱 • 𝗢𝗽𝗲𝗻 𝗕𝗲𝘁𝗮 📅\n➤ Multiplayer - ⏱️ 10 Hours\n\n📅 𝗢𝗰𝘁𝗼𝗯𝗲𝗿 𝟮𝟬𝟮𝟱 • 𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆 𝘄𝗶𝘁𝗵 𝗢𝗺𝗿𝗶/𝗦𝗼𝗹𝗼 📅\n➤ Multiplayer - ⏱️ 65 Hours",
+    "storyInfo": "✅ Story Pending",
+    "gameInfo": "📅 𝗔𝘂𝗴𝘂𝘀𝘁 𝟮𝟬𝟮𝟱 • 𝗢𝗽𝗲𝗻 𝗕𝗲𝘁𝗮 📅\n➤ Multiplayer - ⏱️ 10 Hours\n\n📅 𝗢𝗰𝘁𝗼𝗯𝗲𝗿 𝟮𝟬𝟮𝟱 • 𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆 𝘄𝗶𝘁𝗵 𝗢𝗺𝗿𝗶/𝗦𝗼𝗹𝗼 📅\n➤ Multiplayer - ⏱️ 58 Hours\n➤ Battle Royal - ⏱️ 7 Hours\n\n📅 𝗦𝗲𝗽𝘁𝗲𝗺𝗯𝗲𝗿 𝟮𝟬𝟮𝟲 • 𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆 𝗦𝗼𝗹𝗼 📅\n➤ Story - ⏱️ 0 Hours\n➤ Multiplayer - ⏱️ 1 Hours\n➤ Battle Royal - ⏱️ 0 Hours",
+    "timeInfo": null
+  },
+    {
+    "name": "Battlefield 5",
+    "imagePath": "img/bf5.jpg",
+    "totalHours": 71,
+    "hasPlatinum": 1,
+    "storyInfo": "✅ Story Completed\n⚔️ Hardcore 4/4",
+    "gameInfo": "📅 𝟮𝟬𝟮𝟮 • 𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲𝗱 𝗣𝗹𝗮𝘁𝗶𝗻𝘂𝗺 𝗼𝗻 𝗣𝗦𝟰 📅\n➤ Story - ⏱️ 10 Hours\n➤ Multiplayer - ⏱️ 36 Hours\n\n📅 𝗠𝗮𝗿𝗰𝗵 𝟮𝟬𝟮𝟱 • 𝗣𝗹𝗮𝘆𝗲𝗱 𝗼𝗻 𝗣𝗖 📅\n➤ Multiplayer - ⏱️ 14 Hours\n\n📅 𝗔𝘂𝗴𝘂𝘀𝘁 𝟮𝟬𝟮𝟱 • 𝗣𝗹𝗮𝘆𝗲𝗱 𝗼𝗻 𝗣𝗖 (𝗣𝗿𝗲𝗽𝗮𝗿𝗶𝗻𝗴 𝗳𝗼𝗿 𝗕𝗙𝟲) 📅\n➤ Multiplayer - ⏱️ 11 Hours",
     "timeInfo": null
   },
   {
@@ -192,14 +207,15 @@
     "timeInfo": null
   },
   {
-    "name": "Battlefield 5",
-    "imagePath": "img/bf5.jpg",
-    "totalHours": 56,
-    "hasPlatinum": 1,
-    "storyInfo": "✅ Story Completed\n⚔️ Hardcore 4/4",
-    "gameInfo": "📅 𝟮𝟬𝟮𝟮 • 𝗖𝗼𝗺𝗽𝗹𝗲𝘁𝗲𝗱 𝗣𝗹𝗮𝘁𝗶𝗻𝘂𝗺 𝗼𝗻 𝗣𝗦𝟰 📅\n➤ Story - ⏱️ 10 Hours\n➤ Multiplayer - ⏱️ 36 Hours\n\n📅 𝗠𝗮𝗿𝗰𝗵 𝟮𝟬𝟮𝟱 • 𝗣𝗹𝗮𝘆𝗲𝗱 𝗼𝗻 𝗣𝗖 📅\n➤ Multiplayer - ⏱️ 14 Hours\n\n📅 𝗔𝘂𝗴𝘂𝘀𝘁 𝟮𝟬𝟮𝟱 • 𝗣𝗹𝗮𝘆𝗲𝗱 𝗼𝗻 𝗣𝗖 (𝗣𝗿𝗲𝗽𝗮𝗿𝗶𝗻𝗴 𝗳𝗼𝗿 𝗕𝗙𝟲) 📅\n➤ Multiplayer - ⏱️ 0 Hours",
+    "name": "Forza Horizon 6",
+    "imagePath": "img/fh6.jpg",
+    "totalHours": 58,
+    "hasPlatinum": 0,
+    "storyInfo": "✅ Story Completed\n⚔️Only Wheel and Shifter\n⚔️Novice 3/9 (AI Difficulty)",
+    "gameInfo": "📅 𝗠𝗮𝘆-𝗝𝘂𝗹𝘆 𝟮𝟬𝟮𝟲 • 𝗙𝗶𝗿𝘀𝘁 𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆 📅\n➤ Story + All Achievements - ⏱️ 58 Hours",
     "timeInfo": null
   },
+
   {
     "name": "PC Building Simulator",
     "imagePath": "img/pc.png",
@@ -234,15 +250,6 @@
     "hasPlatinum": 0,
     "storyInfo": "✅ Story Completed",
     "gameInfo": "📅 𝟮𝟬𝟮𝟬/𝟮𝟬𝟮𝟯 • 𝗣𝗖 𝗣𝗹𝗮𝘆𝘁𝗵𝗿𝗼𝘂𝗴𝗵 - 𝗙𝗶𝗿𝘀𝘁 𝗣𝗲𝗿𝘀𝗼𝗻 𝗢𝗻𝗹𝘆 📅\n➤ Story - ⏱️ 29\n➤ Online - ⏱️ 17",
-    "timeInfo": null
-  },
-   {
-    "name": "Forza Horizon 6",
-    "imagePath": "img/fh6.jpg",
-    "totalHours": 41,
-    "hasPlatinum": 0,
-    "storyInfo":  "✅ Story Completed\n⚔️Only Wheel and Shifter\n⚔️Novice 3/9 (AI Difficulty)",
-    "gameInfo": "📅 𝗠𝗮𝘆 𝟮𝟬𝟮𝟲 • 𝗙𝗶𝗿𝘀𝘁 𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆 📅\n➤ Story + All Achievements - ⏱️ 0 Hours",
     "timeInfo": null
   },
   {
@@ -287,10 +294,9 @@
     "totalHours": 40,
     "hasPlatinum": 0,
     "storyInfo": "✅ Story Completed",
-    "gameInfo": "📅 𝗔𝘂𝗴𝘂𝘀𝘁 𝟮𝟬𝟮𝟱 • 𝗬𝘂𝘇𝘂 𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆 📅\n➤ Story - ⏱️ 4 Hours\n\n📅 𝗦𝗲𝗽𝘁𝗲𝗺𝗯𝗲𝗿 𝟮𝟬𝟮𝟱 • 𝗦𝘄𝗶𝘁𝗰𝗵 𝗣𝗹𝗮𝘆𝘁𝗵𝗿𝗼𝘂𝗴𝗵 📅\n➤ Story (Not Completed) - ⏱️ 24 Hours\n\n📅 𝗝𝘂𝗻𝗲-𝗝𝘂𝗹𝘆 𝟮𝟬𝟮𝟲 • 𝗖𝗼𝗻𝘁𝗶𝗻𝘂𝗲𝗱 𝗣𝗿𝗲𝘃𝗶𝗼𝘂𝘀 𝗣𝗹𝗮𝘆𝘁𝗵𝗿𝗼𝘂𝗴𝗵 📅\n➤ Story - ⏱️ 11:30 Hours\n➤ Post-Story Shinny Hunting (For Pokemon Champions) - ⏱️ 0:30 Hours",
+    "gameInfo": "📅 𝗔𝘂𝗴𝘂𝘀𝘁 𝟮𝟬𝟮𝟱 • 𝗬𝘂𝘇𝘂 𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆 📅\n➤ Story - ⏱️ 4 Hours\n\n📅 𝗦𝗲𝗽𝘁𝗲𝗺𝗯𝗲𝗿 𝟮𝟬𝟮𝟱 • 𝗦𝘄𝗶𝘁𝗰𝗵 𝗣𝗹𝗮𝘆𝘁𝗵𝗿𝗼𝘂𝗴𝗵 📅\n➤ Story (Not Completed) - ⏱️ 24 Hours\n\n📅 𝗝𝘂𝗻𝗲-𝗝𝘂𝗹𝘆 𝟮𝟬𝟮𝟲 • 𝗖𝗼𝗻𝘁𝗶𝗻𝘂𝗲𝗱 𝗣𝗿𝗲𝘃𝗶𝗼𝘂𝘀 𝗣𝗹𝗮𝘆𝘁𝗵𝗿𝗼𝘂𝗴𝗵 📅\n➤ Story - ⏱️ 11:30 Hours\n➤ Post-Story Pokemon Hunting (For Pokemon Champions) - ⏱️ 0:30 Hours",
     "timeInfo": null
-  }
-  ,
+  },
   {
     "name": "The Sims 4",
     "imagePath": "img/sims.png",
@@ -336,12 +342,12 @@
     "gameInfo": null,
     "timeInfo": null
   },
-     {
+  {
     "name": "Assetto Corsa",
     "imagePath": "img/assetto.png",
     "totalHours": 32,
     "hasPlatinum": 0,
-    "storyInfo":  null,
+    "storyInfo": null,
     "gameInfo": "📅 𝗔𝗽𝗿𝗶𝗹 𝟮𝟬𝟮𝟲 • 𝗙𝗶𝗿𝘀𝘁 𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆 📅\n➤ Career (AI 80%) + Achievement Hunting - ⏱️ 32 Hours",
     "timeInfo": null
   },
@@ -354,9 +360,7 @@
     "gameInfo": "📅 𝗢𝗰𝘁𝗼𝗯𝗲𝗿 𝟮𝟬𝟮𝟰 • 𝗙𝗶𝗿𝘀𝘁 𝗣𝗹𝗮𝘆𝘁𝗵𝗿𝗼𝘂𝗴𝗵 (𝗔𝗹𝗹 𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗺𝗲𝗻𝘁𝘀) 📅\n➤ Story - ⏱️ 31 Hours",
     "timeInfo": null
   },
-
- 
-   {
+  {
     "name": "Pokemon: FireRed",
     "imagePath": "img/firered.jpg",
     "totalHours": 30,
@@ -383,7 +387,6 @@
     "gameInfo": null,
     "timeInfo": null
   },
-    
   {
     "name": "Farming Simulator 25",
     "imagePath": "img/farming25.png",
@@ -483,7 +486,7 @@
     "gameInfo": "📅 𝗝𝘂𝗹𝘆 𝟮𝟬𝟮𝟱 • 𝗙𝗶𝗿𝘀𝘁 𝗣𝗹𝗮𝘆𝘁𝗵𝗿𝗼𝘂𝗴𝗵 (𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗺𝗲𝗻𝘁 𝗛𝘂𝗻𝘁𝗶𝗻𝗴) 📅\n➤ Story (Not Completed) - ⏱️ 14 Hours",
     "timeInfo": null
   },
-     {
+  {
     "name": "Pokemon: Omega Ruby",
     "imagePath": "img/omegaruby.jpg",
     "totalHours": 12,
@@ -510,7 +513,6 @@
     "gameInfo": null,
     "timeInfo": null
   },
-
   {
     "name": "Black & White",
     "imagePath": "img/blackwhite.png",
@@ -619,7 +621,7 @@
     "gameInfo": null,
     "timeInfo": null
   },
-{
+  {
     "name": "Satisfactory",
     "imagePath": "img/satisfactory.png",
     "totalHours": 5,
@@ -627,8 +629,7 @@
     "storyInfo": null,
     "gameInfo": "📅 𝗝𝘂𝗹𝘆 𝟮𝟬𝟮𝟱 • 𝗙𝗶𝗿𝘀𝘁 𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆 📅\n➤ Story - ⏱️ 5:40 Hours",
     "timeInfo": null
-  }
-  ,
+  },
   {
     "name": "Battlefield: Bad Company 2",
     "imagePath": "img/badcomp.jpg",
@@ -639,7 +640,7 @@
     "timeInfo": null
   },
   {
-    "name": "Microsoft Flight Simulator",
+    "name": "Microsoft Flight Simulator 2020",
     "imagePath": "img/flight.png",
     "totalHours": 5,
     "hasPlatinum": 0,
@@ -693,33 +694,15 @@
     "timeInfo": null
   },
   {
-    "name": "Final Fantasy 14 Online",
-    "imagePath": "img/ff14.jpg",
-    "totalHours": 0,
-    "hasPlatinum": 0,
-    "storyInfo": null,
-    "gameInfo": "📅 𝗡/𝗔 • 𝗣𝗦𝟰 𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆 📅\n➤ Online - ⏱️ ? Hours",
-    "timeInfo": null
-  },
-  {
-    "name": "Need for Speed (2015)",
-    "imagePath": "img/nfs.jpg",
-    "totalHours": 0,
-    "hasPlatinum": 0,
-    "storyInfo": null,
-    "gameInfo": "📅 𝗡/𝗔 • 𝗣𝗦𝟰 𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆 📅\n➤ Story - ⏱️ ? Hours",
-    "timeInfo": null
-  },
-  {
     "name": "Sniper Elite 4",
     "imagePath": "img/sniper4.jpg",
-    "totalHours": 0,
+    "totalHours": 10,
     "hasPlatinum": "✅ Story Completed",
     "storyInfo": null,
-    "gameInfo": "📅 𝗡/𝗔 • 𝗣𝗦𝟰 𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆 📅\n➤ Story - ⏱️ ? Hours",
+    "gameInfo": "📅 𝗡/𝗔 • 𝗣𝗦𝟰 𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆 📅\n➤ Story - ⏱️ 10 Hours",
     "timeInfo": null
   },
-   {
+  {
     "name": "Cooking Simulator",
     "imagePath": "img/cooking.png",
     "totalHours": 20,
@@ -733,7 +716,7 @@
     "imagePath": "img/electric.png",
     "totalHours": 8,
     "hasPlatinum": 1,
-    "storyInfo":  "✅ Story Completed",
+    "storyInfo": "✅ Story Completed",
     "gameInfo": "📅 𝗔𝗽𝗿𝗶𝗹 𝟮𝟬𝟮𝟲 • 𝗙𝗶𝗿𝘀𝘁 𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆 📅\n➤ Story + All Achievements - ⏱️ 8 Hours",
     "timeInfo": null
   },
@@ -742,30 +725,18 @@
     "imagePath": "img/fh4.png",
     "totalHours": 2,
     "hasPlatinum": 0,
-    "storyInfo":  null,
+    "storyInfo": null,
     "gameInfo": "📅 𝗔𝗽𝗿𝗶𝗹 𝟮𝟬𝟮𝟲 • 𝗙𝗶𝗿𝘀𝘁 𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆 📅\n➤ Story - ⏱️ 2 Hours",
     "timeInfo": null
   },
- 
-
-   {
+  {
     "name": "Pokemon: Champions",
     "imagePath": "img/champions.png",
-    "totalHours": 0,
+    "totalHours": 9,
     "hasPlatinum": 0,
-    "storyInfo": "",
+    "storyInfo": "No Story",
     "gameInfo": "📅 𝗝𝘂𝗻𝗲 𝟮𝟬𝟮𝟲  • 𝗙𝗶𝗿𝘀𝘁 𝗚𝗮𝗺𝗲𝗽𝗹𝗮𝘆 📅\n➤ Story - ⏱️ 0 Hours",
     "timeInfo": null
-  },
-     {
-    "name": "Crimson Desert",
-    "imagePath": "img/crimson.jpg",
-    "totalHours": 0,
-    "hasPlatinum": 0,
-    "storyInfo": "✅ Story Pending\n⚔️ Hard 3/3",
-    "gameInfo": "📅 𝗝𝘂𝗹𝘆 𝟮𝟬𝟮𝟲 • 𝗔𝗹𝗹 𝗔𝗰𝗵𝗶𝗲𝘃𝗲𝗺𝗲𝗻𝘁𝘀 & 𝟭𝟬𝟬% (𝗛𝗮𝗿𝗱 𝗗𝗶𝗳𝗳𝗶𝗰𝘂𝗹𝘁𝘆) 📅\n➤ Story/Exploration - ⏱️ 0 Hours",
-    "timeInfo": null
   }
-  
-
+ 
 ]
